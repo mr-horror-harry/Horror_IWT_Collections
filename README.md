@@ -1,4 +1,4 @@
 # my_IWT_Horror
-About 
-This is Horror Harry's Internet & Web Technology progress.
-For all the images, font links or any other source of external files used the credits in this repository would belong to the respective owner.
+ • This is Horror Harry's Internet & Web Technology progress.
+ • All these files are available as seperate link for usage and for viewance. Get benefited out of it. Also, I request you to ignore the minimal ineffiecient techniques used as I've been putting efforts to code front end efficiently currently.
+ • For all the images, font links or any other source of external files used the credits in this repository would belong to the respective owner.
